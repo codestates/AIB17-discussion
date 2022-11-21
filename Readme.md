@@ -1,6 +1,6 @@
 # AIB17_Discussion
 
-https://github.com/codestates/AIB기수번호_discussion/discussions
+https://github.com/codestates/AIB17_discussion/discussions
 
 으로 입장해주세요 ! 
 
